@@ -1,6 +1,11 @@
 # Godot Agent Laboratory
 Vamos a hacer una adaptación de Agent Laboratory (https://github.com/SamuelSchmidgall/AgentLaboratory) para Godot :D!. Para esto necesitaremos configurar un servidor Python local que corra en la misma máquina que Godot, y que este se comunique con él a través de WebSockets, HTTP (REST API) o incluso sockets TCP/UDP directos.
 
+## Integración de Python en Godot 4.4:
+
+Godot utiliza principalmente GDScript como su lenguaje de scripting nativo. Aunque existen esfuerzos para integrar Python en Godot, como el proyecto godot-python (https://pythonrepo.com/repo/touilleman-godot-python-python-data-validation), la integración no es completa ni oficial. Esto puede limitar la capacidad de ejecutar código Python directamente dentro de Godot.
+
+
 📌 Opciones para la Comunicación
 
 REST API con FastAPI o Flask
