@@ -203,4 +203,4 @@ func _on_disconnected(_was_clean):
 Podemos extender esto para enviar información más compleja, como datos de agentes de IA, comandos de movimiento, etc. 🚀
 
 
- 
+ Buena suerte!!
