@@ -1,5 +1,5 @@
 # Godot Agent Laboratory
-Vamos a hacer Agent Laboratory en Godot. Para esto necesitaremos configurar un servidor Python local que corra en la misma máquina que Godot, y que este se comunique con él a través de WebSockets, HTTP (REST API) o incluso sockets TCP/UDP directos.
+Vamos a hacer una adaptación de Agent Laboratory (https://github.com/SamuelSchmidgall/AgentLaboratory) para Godot :D!. Para esto necesitaremos configurar un servidor Python local que corra en la misma máquina que Godot, y que este se comunique con él a través de WebSockets, HTTP (REST API) o incluso sockets TCP/UDP directos.
 
 📌 Opciones para la Comunicación
 
